@@ -1,3 +1,6 @@
+
+![sunhex](https://i.ibb.co/q32LXH2C/sunhex.png "sunhex")
+
 # @sunhex/protocol SDK
 
 The official SunHex Quantum Protocol SDK for decentralized, stateless identity resolution.
